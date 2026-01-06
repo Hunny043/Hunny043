@@ -1,38 +1,56 @@
-👨‍💻 About Me
-👨‍💻 Currently Working On
-I am currently focusing on Cyber Security, learning through platforms like Udemy and Coursera.
-I actively practice my skills on hands-on platforms such as TryHackMe and Hack The Box.
-Alongside this, I hold a degree in Software Engineering, which helps me understand systems, development, and security from a strong technical foundation.
-🌱 Currently Learning
-C++
-Python
-C
-Java
-JavaScript
-Web Development (HTML, CSS, Bootstrap, PHP)
-Cyber Security & Ethical Hacking
-🤝 Looking to Collaborate On
-I am interested in collaborating with people who:
-Support and mentor beginners
-Encourage learning and growth
-Believe in teamwork and positive collaboration
-Work on cyber security, web development, or learning-based projects
-I value learning together and helping each other grow.
-🛠️ Looking to Help With
-Programming languages (C, C++, Python, Java, JavaScript)
-Web development basics
-Cyber security labs
-Kali Linux tools
-Web penetration testing basics
-Guidance for beginners entering tech or cyber security
-💬 Ask Me About
-Cyber security
-Web development
-Ethical hacking labs
-Tools, learning paths, and beginner guidance
-If I know it, I’ll try my best to help.
-⚡ Fun Fact
-I do my best work when everyone else is sleeping 🌙
+ 👨‍💻 About Me
+
+***
+
+### 👨‍💻 Currently Working On
+- Focusing on **Cyber Security** through platforms like **Udemy** and **Coursera**
+- Practicing hands-on labs on **TryHackMe** and **Hack The Box**
+- Using my **Software Engineering** background to better understand systems, development, and security
+
+***
+
+### 🌱 Currently Learning
+- C++
+- Python
+- C
+- Java
+- JavaScript
+- Web Development (HTML, CSS, Bootstrap, PHP)
+- Cyber Security & Ethical Hacking
+
+***
+
+### 🤝 Looking to Collaborate On
+- Beginner-friendly and learning-focused projects
+- Cyber security and web development related work
+- Communities where people help, mentor, and grow together
+- Teams that value communication and positive collaboration
+
+***
+
+### 🛠️ Looking to Help With
+- Programming languages: C, C++, Python, Java, JavaScript
+- Web development fundamentals
+- Cyber security labs and practice environments
+- Kali Linux tools
+- Web penetration testing basics
+- Guidance for beginners in tech and cyber security
+
+***
+
+### 💬 Ask Me About
+- Cyber security concepts and tools
+- Web development basics
+- Ethical hacking labs
+- Learning paths and beginner guidance
+
+***
+
+### ⚡ Fun Fact
+- I do my best work **when everyone else is sleeping** 🌙  
+- I tend to overthink, but that helps me analyze problems deeply
+
+***
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadsaim0043) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadsaim0043@gmail.com) 
